@@ -10,7 +10,7 @@
    }}>
     <img
     style={{
-        width: "15opx"
+        width: "150px"
     }}
      src="https://skillprompt-website.s3.ap-south-1.amazonaws.com/assets/company_logo/logo.png" alt="logo" />
     {/*Input box fo search */}

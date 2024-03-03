@@ -1,9 +1,10 @@
 
 import { Navbar } from './components/Navbar'
-// import { PostDetail } from './components/PostDetail'
+import { PostDetail } from './components/PostDetail'
 import { PostList } from './components/PostList'
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import './App.css'
+import { TodosList } from './components/TodosList'
 
 
 const router = createBrowserRouter([

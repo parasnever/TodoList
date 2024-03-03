@@ -1,0 +1,7 @@
+.todos_list_container{
+    max-width: 50%;
+    margin: 0 auto;
+}
+.todos_list_container h2 {
+    text-align: center;
+}
